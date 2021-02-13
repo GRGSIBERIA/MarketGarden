@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+*.exe
+MarketGarden/MarketGarden/App/MarketGarden(debug)_log.html
