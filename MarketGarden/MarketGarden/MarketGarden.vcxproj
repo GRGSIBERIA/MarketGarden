@@ -235,6 +235,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Pop.hpp" />
     <ClInclude Include="State.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -100,6 +100,9 @@
     <Filter Include="Header Files\State">
       <UniqueIdentifier>{8d035460-a7ce-4432-80bc-336763eafe48}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Pop">
+      <UniqueIdentifier>{5d0bfded-6495-44e8-b048-800e35f0fa10}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -381,6 +384,9 @@
   <ItemGroup>
     <ClInclude Include="State.hpp">
       <Filter>Header Files\State</Filter>
+    </ClInclude>
+    <ClInclude Include="Pop.hpp">
+      <Filter>Header Files\Pop</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
