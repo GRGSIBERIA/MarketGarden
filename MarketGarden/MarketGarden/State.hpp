@@ -66,6 +66,10 @@ public:
 	}
 
 private:
+	/**
+	 * @param reg フォントの描画範囲
+	 * @param toggler クリック音を鳴らすためだけのトグル
+	 **/
 	void toggleButton(const RectF& reg, bool& toggler)
 	{
 		if (reg.mouseOver())
