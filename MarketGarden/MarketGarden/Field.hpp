@@ -10,3 +10,13 @@ public:
 
 };
 
+enum class Field
+{
+	OCEAN = 0,	// 海
+	LAND,		// 平地
+	FOREST,		// 森林
+	DESERT,		// 砂漠
+	WETLANDS,	// 湿地
+	ALPINE,		// 山岳
+	TUNDRA		// ツンドラ
+};
