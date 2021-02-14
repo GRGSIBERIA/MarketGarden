@@ -235,6 +235,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Division.hpp" />
+    <ClInclude Include="Field.hpp" />
     <ClInclude Include="Pop.hpp" />
     <ClInclude Include="State.hpp" />
   </ItemGroup>

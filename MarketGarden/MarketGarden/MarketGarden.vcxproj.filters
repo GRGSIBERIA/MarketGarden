@@ -103,6 +103,12 @@
     <Filter Include="Header Files\Pop">
       <UniqueIdentifier>{5d0bfded-6495-44e8-b048-800e35f0fa10}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Field">
+      <UniqueIdentifier>{3a945352-80b0-40e9-be0e-3480d5c9874e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Division">
+      <UniqueIdentifier>{e8845cb9-6b14-46cf-b4bc-d442e5807503}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -387,6 +393,12 @@
     </ClInclude>
     <ClInclude Include="Pop.hpp">
       <Filter>Header Files\Pop</Filter>
+    </ClInclude>
+    <ClInclude Include="Field.hpp">
+      <Filter>Header Files\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="Division.hpp">
+      <Filter>Header Files\Division</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
